@@ -103,7 +103,7 @@ body {
 
 
 /* Responsividade */
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .tabuleiro {
     grid-gap: 10px;
   }
